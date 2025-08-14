@@ -9,7 +9,7 @@ COLOR_MAP = {"red":RED, "orange": YELLOW, "green": GREEN}
 
 class Tester:
 
-    def __init__(self, predictor, data, title=None, size=250):
+    def __init__(self, predictor, data, title=None, size=10):
         self.predictor = predictor
         self.data = data
         self.title = title or predictor.__name__.replace("_", " ").title()
