@@ -16,5 +16,14 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Odyssey Neo G7 is a 43-inch gaming monitor featuring 4K resolution and a 144Hz refresh rate with AMD FreeSync support. It utilizes Mini-LED technology for enhanced visuals and includes Smart TV apps for convenient streaming. Connectivity options include a USB 3.0 hub, one DisplayPort, and two HDMI inputs. The model number is LS43CG702NNXZA.",
+      "price": 570.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-Neo-G7-43-4-K-144-Hz-Mini-LED-Free-Sync-Smart-Monitor/459768.html?iref=rss-f1912"
+    },
+    "estimate": 848.3986612066716,
+    "discount": 278.3986612066716
   }
 ]

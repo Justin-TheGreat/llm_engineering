@@ -41,7 +41,7 @@ class FrontierAgent(Agent):
             api_key=gemini_api_key,
             base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
         )
-        self.MODEL = "gemini-2.5-flash"
+        self.MODEL = "gemini-2.5-flash-lite"
         self.log("Frontier Agent is set up with Gemini")
         self.collection = collection
         self.model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
